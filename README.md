@@ -1,2 +1,2 @@
-# Tic-tac-toe-game
-Tic tac toe game created with pyhthon tkinter
+# Calculator app in python tkinter
+->It can do simple math operations like +,*,-,/
